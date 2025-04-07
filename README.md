@@ -1,6 +1,8 @@
 # Tic Tac Toe
 
 A simple tic-tac-toe game built with HTML, CSS, and JavaScript.
+<img width="408" alt="Screenshot 2025-04-07 at 3 55 11 PM" src="https://github.com/user-attachments/assets/06972dfe-06cb-4841-8b39-0ec5e997c1ed" />
+
 
 ## Features
 
